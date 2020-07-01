@@ -28,6 +28,20 @@ eventdate {
     font-size: 24pt;
 }
 
+.workshopEntry{
+    text-align: left;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+        
+}
+.workshopItem{
+    display: block;
+    vertical-align: top;
+    margin: 0px 100px 0px 100px;
+}
+
 	body {
 		line-height: 1;
 	}
